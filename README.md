@@ -3,7 +3,8 @@
 API em Python (FastAPI) rodando em um Raspberry Pi 4, monitorada com
 Prometheus e Grafana, tudo em containers com Docker Compose.
 
-![Dashboard](docs/dashboard.png)
+<img width="1600" height="788" alt="WhatsApp Image 2026-11-09 at 01 17 57" src="https://github.com/user-attachments/assets/b828ced3-21d1-40ba-bca4-6f1ea77bac71" />
+
 
 ## Arquitetura
 
